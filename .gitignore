@@ -366,3 +366,5 @@ MigrationBackup/
 *.code-workspace
 
 .vs
+qrcode.png
+cookies.json
