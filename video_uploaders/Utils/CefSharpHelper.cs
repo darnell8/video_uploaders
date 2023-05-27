@@ -10,8 +10,6 @@ namespace video_uploaders.Utils
     {
         public static void InitCefSharp()
         {
-            CefSharp.Cef.EnableHighDPISupport();
-
             CefSharp.CefSettingsBase settings = new CefSharp.WinForms.CefSettings
             {
                 CachePath = System.IO.Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData), "CefSharp\\Cache")
