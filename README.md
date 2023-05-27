@@ -1,3 +1,10 @@
+# 自媒体多平台上传工具
+
+## 使用方法
+
+直接下载最新的release里面的压缩包[archive.zip](https://github.com/darnell8/video_uploaders/releases/latest/download/archive.zip)
+
+解压到文件夹运行exe程序即可
 
 ## 界面截图
 
